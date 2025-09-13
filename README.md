@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about the intersection of human pot
 
 - **Human-Agentic Workforce Design**: Developing frameworks and strategies for integrating AI agents seamlessly into human teams
 - **Change Management**: Creating methodologies to help organizations navigate the transition to AI-augmented workflows
-- **Technology Transformation**: Designing and implementing strategic approaches to digital transformation
+- **Technology Transformation**: Designing and implementing strategic approaches to digital transformation and strategy
 
 ## 🌱 What I'm Currently Learning
 
